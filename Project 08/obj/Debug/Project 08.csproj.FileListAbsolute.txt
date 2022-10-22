@@ -1,0 +1,43 @@
+D:\Repository\Project 08\bin\Debug\Project 08.exe.config
+D:\Repository\Project 08\bin\Debug\Project 08.exe
+D:\Repository\Project 08\bin\Debug\Project 08.pdb
+D:\Repository\Project 08\bin\Debug\LiveCharts.dll
+D:\Repository\Project 08\bin\Debug\LiveCharts.Wpf.dll
+D:\Repository\Project 08\bin\Debug\LiveCharts.pdb
+D:\Repository\Project 08\bin\Debug\LiveCharts.xml
+D:\Repository\Project 08\bin\Debug\LiveCharts.Wpf.pdb
+D:\Repository\Project 08\bin\Debug\LiveCharts.Wpf.xml
+D:\Repository\Project 08\obj\Debug\Project 08.csproj.AssemblyReference.cache
+D:\Repository\Project 08\obj\Debug\MainWindow.g.cs
+D:\Repository\Project 08\obj\Debug\App.g.cs
+D:\Repository\Project 08\obj\Debug\Project 08_MarkupCompile.cache
+D:\Repository\Project 08\obj\Debug\Project 08_MarkupCompile.lref
+D:\Repository\Project 08\obj\Debug\MainWindow.baml
+D:\Repository\Project 08\obj\Debug\Project 08.g.resources
+D:\Repository\Project 08\obj\Debug\Project_08.Properties.Resources.resources
+D:\Repository\Project 08\obj\Debug\Project 08.csproj.GenerateResource.cache
+D:\Repository\Project 08\obj\Debug\Project 08.csproj.CoreCompileInputs.cache
+D:\Repository\Project 08\obj\Debug\Project 08.exe
+D:\Repository\Project 08\obj\Debug\Project 08.pdb
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\Project 08.exe.config
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\Project 08.exe
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\Project 08.pdb
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\LiveCharts.dll
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\LiveCharts.Wpf.dll
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\LiveCharts.pdb
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\LiveCharts.xml
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\LiveCharts.Wpf.pdb
+D:\Repository\GitHub Repository\My Projects\Project 08\bin\Debug\LiveCharts.Wpf.xml
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\MainWindow.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\App.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08_MarkupCompile.cache
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08_MarkupCompile.lref
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\MainWindow.baml
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08.g.resources
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project_08.Properties.Resources.resources
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08.csproj.GenerateResource.cache
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08.csproj.CopyComplete
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08.exe
+D:\Repository\GitHub Repository\My Projects\Project 08\obj\Debug\Project 08.pdb

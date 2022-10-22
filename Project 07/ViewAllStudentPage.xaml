@@ -1,0 +1,30 @@
+﻿<Page x:Class="Project_07.ViewAllStudentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_07"
+      mc:Ignorable="d" 
+      d:DesignHeight="360.8" d:DesignWidth="884"
+      Title="ViewAllStudentPage" IsVisibleChanged="Page_IsVisibleChanged">
+    
+    <Grid>
+        <DataGrid x:Name="DGridStudents" AutoGenerateColumns="False" IsReadOnly="True" Background="AliceBlue" SelectionChanged="DGridStudents_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="EditStudentBtn" Content="Редактировать" FontSize="14" Click="EditStudentBtn_Click" Background="AliceBlue" Grid.Column="2" Grid.Row="4" Margin="0,0,0,5"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="ФИО" Width="auto" Binding="{Binding FullName}"/>
+                <DataGridTextColumn Header="Дата рождения" Width="auto" Binding="{Binding Birthday, StringFormat=\{0:dd.MM.yyyy\}}"/>
+                <DataGridTextColumn Header="Домашний адрес" Width="auto" Binding="{Binding Addresses.HomeAddress}"/>
+                <DataGridTextColumn Header="Среднее образование" Width="150" Binding="{Binding HighSchools.HighSchool}"/>
+                <DataGridTextColumn Header="Курс" Width="auto" Binding="{Binding Course}"/>
+                <DataGridTextColumn Header="Специальность" Width="auto"  Binding="{Binding Speciality}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StudentsBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Addresses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HomeAddress" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Students_Addresses" FromRole="Addresses" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="HighSchools">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HighSchool" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Students" Relationship="Self.FK_Students_HighSchools" FromRole="HighSchools" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Birthday" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="HomeAddressId" Type="Int32" Nullable="false" />
+    <Property Name="HighSchoolId" Type="Int32" Nullable="false" />
+    <Property Name="Course" Type="Int32" Nullable="false" />
+    <Property Name="Speciality" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Addresses" Relationship="Self.FK_Students_Addresses" FromRole="Students" ToRole="Addresses" />
+    <NavigationProperty Name="HighSchools" Relationship="Self.FK_Students_HighSchools" FromRole="Students" ToRole="HighSchools" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Students_Addresses">
+    <End Role="Addresses" Type="Self.Addresses" Multiplicity="1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Addresses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="HomeAddressId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Students_HighSchools">
+    <End Role="HighSchools" Type="Self.HighSchools" Multiplicity="1" />
+    <End Role="Students" Type="Self.Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HighSchools">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Students">
+        <PropertyRef Name="HighSchoolId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="StudentsBaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Addresses" EntityType="Self.Addresses" />
+    <EntitySet Name="HighSchools" EntityType="Self.HighSchools" />
+    <EntitySet Name="Students" EntityType="Self.Students" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_Students_Addresses" Association="Self.FK_Students_Addresses">
+      <End Role="Addresses" EntitySet="Addresses" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Students_HighSchools" Association="Self.FK_Students_HighSchools">
+      <End Role="HighSchools" EntitySet="HighSchools" />
+      <End Role="Students" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

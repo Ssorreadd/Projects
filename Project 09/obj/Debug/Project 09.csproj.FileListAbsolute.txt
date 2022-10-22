@@ -1,0 +1,14 @@
+D:\Repository\Project 09\bin\Debug\Project 09.exe.config
+D:\Repository\Project 09\bin\Debug\Project 09.exe
+D:\Repository\Project 09\bin\Debug\Project 09.pdb
+D:\Repository\Project 09\obj\Debug\Project 09.csproj.AssemblyReference.cache
+D:\Repository\Project 09\obj\Debug\Project 09.csproj.CoreCompileInputs.cache
+D:\Repository\Project 09\obj\Debug\Project 09.exe
+D:\Repository\Project 09\obj\Debug\Project 09.pdb
+D:\Repository\GitHub Repository\My Projects\Project 09\bin\Debug\Project 09.exe.config
+D:\Repository\GitHub Repository\My Projects\Project 09\bin\Debug\Project 09.exe
+D:\Repository\GitHub Repository\My Projects\Project 09\bin\Debug\Project 09.pdb
+D:\Repository\GitHub Repository\My Projects\Project 09\obj\Debug\Project 09.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\My Projects\Project 09\obj\Debug\Project 09.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\My Projects\Project 09\obj\Debug\Project 09.exe
+D:\Repository\GitHub Repository\My Projects\Project 09\obj\Debug\Project 09.pdb

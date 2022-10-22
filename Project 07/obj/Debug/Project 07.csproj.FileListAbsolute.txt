@@ -1,0 +1,104 @@
+D:\Repository\Project 07\bin\Debug\Project 07.exe.config
+D:\Repository\Project 07\bin\Debug\Project 07.exe
+D:\Repository\Project 07\bin\Debug\Project 07.pdb
+D:\Repository\Project 07\obj\Debug\Project 07.csproj.AssemblyReference.cache
+D:\Repository\Project 07\obj\Debug\MainWindow.g.cs
+D:\Repository\Project 07\obj\Debug\App.g.cs
+D:\Repository\Project 07\obj\Debug\Project 07_MarkupCompile.cache
+D:\Repository\Project 07\obj\Debug\Project 07_MarkupCompile.lref
+D:\Repository\Project 07\obj\Debug\MainWindow.baml
+D:\Repository\Project 07\obj\Debug\Project 07.g.resources
+D:\Repository\Project 07\obj\Debug\Project_07.Properties.Resources.resources
+D:\Repository\Project 07\obj\Debug\Project 07.csproj.GenerateResource.cache
+D:\Repository\Project 07\obj\Debug\Project 07.csproj.CoreCompileInputs.cache
+D:\Repository\Project 07\obj\Debug\Project 07.exe
+D:\Repository\Project 07\obj\Debug\Project 07.pdb
+D:\Repository\Project 07\obj\Debug\App.baml
+D:\Repository\Project 07\bin\Debug\EntityFramework.dll
+D:\Repository\Project 07\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\Project 07\bin\Debug\EntityFramework.xml
+D:\Repository\Project 07\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\Project 07\bin\Debug\ru\EntityFramework.resources.dll
+D:\Repository\Project 07\obj\Debug\ViewAllStudentPage.g.cs
+D:\Repository\Project 07\obj\Debug\Project 07_Content.g.cs
+D:\Repository\Project 07\obj\Debug\ViewAllStudentPage.baml
+D:\Repository\Project 07\obj\Debug\AddEditPage.g.cs
+D:\Repository\Project 07\obj\Debug\AddEditPage.baml
+D:\Repository\Project 07\obj\Debug\MainReportPage.g.cs
+D:\Repository\Project 07\obj\Debug\MainReportPage.baml
+D:\Repository\Project 07\obj\Debug\AddSchoolOrAdress.g.cs
+D:\Repository\Project 07\obj\Debug\AddSchoolOrAdress.baml
+D:\Repository\Project 07\obj\Debug\FirstReportPage.g.cs
+D:\Repository\Project 07\obj\Debug\FirstReportPage.baml
+D:\Repository\Project 07\obj\Debug\SecondReportPage.g.cs
+D:\Repository\Project 07\obj\Debug\SecondReportPage.baml
+D:\Repository\Projects\Project 07\bin\Debug\Project 07.exe.config
+D:\Repository\Projects\Project 07\bin\Debug\Project 07.exe
+D:\Repository\Projects\Project 07\bin\Debug\Project 07.pdb
+D:\Repository\Projects\Project 07\bin\Debug\EntityFramework.dll
+D:\Repository\Projects\Project 07\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\Projects\Project 07\bin\Debug\EntityFramework.xml
+D:\Repository\Projects\Project 07\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\Projects\Project 07\bin\Debug\ru\EntityFramework.resources.dll
+D:\Repository\Projects\Project 07\obj\Debug\Project 07.csproj.AssemblyReference.cache
+D:\Repository\Projects\Project 07\obj\Debug\AddEditPage.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\AddSchoolOrAdress.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\FirstReportPage.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\MainReportPage.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\MainWindow.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\SecondReportPage.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\ViewAllStudentPage.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\App.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\Project 07_Content.g.cs
+D:\Repository\Projects\Project 07\obj\Debug\Project 07_MarkupCompile.cache
+D:\Repository\Projects\Project 07\obj\Debug\Project 07_MarkupCompile.lref
+D:\Repository\Projects\Project 07\obj\Debug\App.baml
+D:\Repository\Projects\Project 07\obj\Debug\AddEditPage.baml
+D:\Repository\Projects\Project 07\obj\Debug\AddSchoolOrAdress.baml
+D:\Repository\Projects\Project 07\obj\Debug\FirstReportPage.baml
+D:\Repository\Projects\Project 07\obj\Debug\MainReportPage.baml
+D:\Repository\Projects\Project 07\obj\Debug\MainWindow.baml
+D:\Repository\Projects\Project 07\obj\Debug\SecondReportPage.baml
+D:\Repository\Projects\Project 07\obj\Debug\ViewAllStudentPage.baml
+D:\Repository\Projects\Project 07\obj\Debug\Project 07.g.resources
+D:\Repository\Projects\Project 07\obj\Debug\Project_07.Properties.Resources.resources
+D:\Repository\Projects\Project 07\obj\Debug\Project 07.csproj.GenerateResource.cache
+D:\Repository\Projects\Project 07\obj\Debug\Project 07.csproj.CoreCompileInputs.cache
+D:\Repository\Projects\Project 07\obj\Debug\Project 07.csproj.CopyComplete
+D:\Repository\Projects\Project 07\obj\Debug\Project 07.exe
+D:\Repository\Projects\Project 07\obj\Debug\Project 07.pdb
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\Project 07.exe.config
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\Project 07.exe
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\Project 07.pdb
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\EntityFramework.dll
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\EntityFramework.xml
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repository\GitHub Repository\My Projects\Project 07\bin\Debug\ru\EntityFramework.resources.dll
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07.csproj.AssemblyReference.cache
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\AddEditPage.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\AddSchoolOrAdress.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\FirstReportPage.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\MainReportPage.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\MainWindow.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\SecondReportPage.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\ViewAllStudentPage.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\App.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07_Content.g.cs
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07_MarkupCompile.cache
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07_MarkupCompile.lref
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\App.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\AddEditPage.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\AddSchoolOrAdress.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\FirstReportPage.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\MainReportPage.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\MainWindow.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\SecondReportPage.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\ViewAllStudentPage.baml
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07.g.resources
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project_07.Properties.Resources.resources
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07.csproj.GenerateResource.cache
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07.csproj.CoreCompileInputs.cache
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07.csproj.CopyComplete
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07.exe
+D:\Repository\GitHub Repository\My Projects\Project 07\obj\Debug\Project 07.pdb
